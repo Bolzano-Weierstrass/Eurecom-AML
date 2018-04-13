@@ -13,5 +13,7 @@ This course covers :
 
 ## Notebooks
 
-- Building a music recommender system
--
+- [Building a music Recommender System](https://github.com/Bolzano-Weierstrass/Eurecom-AML/blob/master/Recommender_System.ipynb)
+- [Estimating Financial Risk through Monte Carlo Simulation](https://github.com/Bolzano-Weierstrass/Eurecom-AML/blob/master/Monte_Carlo_Simulation.ipynb)
+
+
