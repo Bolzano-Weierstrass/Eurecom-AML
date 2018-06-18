@@ -7,7 +7,7 @@ The following Notebooks used the PySpark API on a cluster of computers managed b
 This course covers :
 1. Data cleaning
 2. Dala analysis
-3. Algorithm implementation
+3. Algorithm implementation/selection
 4. Algorithm evaluation and validation
 5. Optimization and further research
 
